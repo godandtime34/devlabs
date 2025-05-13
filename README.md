@@ -59,3 +59,6 @@ pyinstaller --onefile --windowed --name=CourseCatalog --add-data=courses.json;. 
 ```
 
 The executable will be created in the `dist` folder. Update the course.json file in the `dist` folder to show more courses on the app.
+
+
+<img width="1280" alt="Screenshot 2025-05-13 at 4 46 15 PM" src="https://github.com/user-attachments/assets/bcd0b85a-a936-40c8-95c8-f2b58e2b03a3" />
